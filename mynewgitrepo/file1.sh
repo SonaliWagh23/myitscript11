@@ -1,2 +1,1 @@
-#!/bin/bash
-#echo "Hi how are you"
+i am very good what about you
